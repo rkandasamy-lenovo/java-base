@@ -1,4 +1,4 @@
-FROM openjdk:8u275-jre
+FROM openjdk:8u302-jre
 
 COPY . .
 EXPOSE 8080
